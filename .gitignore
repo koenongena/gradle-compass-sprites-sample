@@ -1,0 +1,7 @@
+.idea/
+.jruby/
+.gradle/
+.sass-cache/
+Thumbs.db
+*.iml
+*.ipr
